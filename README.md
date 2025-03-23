@@ -6,7 +6,7 @@ So here are the steps:
 1. Check the Chrome version currently installed.
 2. Find the appropriate chromedriver matching your Chrome version:
     https://sites.google.com/chromium.org/driver/downloads
-3. Unpack it and(for Linux) move the 'chromedriver' file to /usr/local/bin/
+3. Download and unpack it, then(in case of Linux) move the 'chromedriver' file to /usr/local/bin/
    ```
     sudo mv chromedriver /usr/local/bin/
    ```
@@ -39,7 +39,7 @@ P.S. Keep in mind that pip/python and pip3/python3 rather refer to different sub
 
 ______________________________
 
-The following environment was used successfully for testing:
+The following environment was successfully used:
    - Chrome 134.0.6998.88
    - Python 3.12
    - Pythons packages:
