@@ -47,3 +47,13 @@ The following environment was successfully used:
      - selenium==4.29.0
      - seleniumbase==4.35.6
      - undetected-chromedriver==3.5.5
+
+## Demonstration
+
+https://github.com/user-attachments/assets/5f78d6b4-24b9-476e-a537-1fd4bd40eda8
+
+
+
+
+
+
